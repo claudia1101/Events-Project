@@ -1,0 +1,41 @@
+.popup-content{
+    margin-left: 300px;
+}
+.evenimente {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .evenimente li {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #000000;
+    background-color: rgb(196, 244, 219);
+  }
+  
+  
+  .evenimente li button {
+    float: right; 
+    margin-top: 10px;
+  }
+  
+  .events{
+    width: 800px;
+    display:block;
+  }
+
+  .QR{
+   font-size: 30px;
+  }
+
+  .TEXT{
+    font-size: 30px;
+  }
+
+  .h1lista{
+    text-align: center;
+    color: rgb(22, 126, 92);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    font-size: 40px;
+}

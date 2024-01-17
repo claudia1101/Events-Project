@@ -1,0 +1,32 @@
+.custom-calendar{
+    margin-top: 30px;
+    background-image: url(calendar2.jpg);
+     background-size:cover;
+}
+
+.custom-calendar {
+    border-collapse: separate;
+    border-spacing: 8px; 
+  }
+  
+  .custom-calendar .rbc-event {
+    border: 2px solid #000; 
+  }
+  
+  .custom-calendar .rbc-toolbar button {
+    font-weight: bold; 
+    font-size: 15px;
+    color: #000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .custom-calendar .rbc-toolbar-label {
+    font-weight: bold; 
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#2d6a1f;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; 
+
+  }
+  
+  
